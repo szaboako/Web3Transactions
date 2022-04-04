@@ -1,12 +1,12 @@
 # Web3Transactions
 
-A web3 application using a `Solidity` `Smart Contract`, `Web3JS`, `EtherJS`, and `ReactJS`.
+A web3 application using a `Solidity` `Smart Contract`, `Web3JS`, `EthersJS`, and `ReactJS`.
 
 By using both the `client` and the `smart contract` you can send transactions via `metamask` integration and store some data about said transactions on the `ethereum blockchain` (I used the `rinkeby` test network), that data can be viewed in the `react app`.
 
 For creating the `smart contract` I used `solidity`, and for deploying it I worked with the `hardhat` framework and some of its plugins (eg. `hardhat-deploy`).
 
-I have created the frontend in `reactjs` with the help of `etherjs`, and `tailwindcss` for the design.
+I have created the frontend in `reactjs` with the help of `ethersjs`, and `tailwindcss` for the design.
 
 In order to make the project work:
 
